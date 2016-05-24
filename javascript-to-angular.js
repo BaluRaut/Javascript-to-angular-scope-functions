@@ -32,7 +32,7 @@ function myJS(data){
     // On drill functions on the graph click or tap actions
     $scope.onDrillEvent= function (){
       console.log(onDrillData);
-    }
+    }  
 
 
 // End in angular 
